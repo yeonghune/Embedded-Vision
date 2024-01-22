@@ -18,7 +18,7 @@ def main():
     a=int(input('a='))
     print(a)
     b=int(input('b='))
-    print('b')
+    print(b)
     print(add(a, b))
     print(sub(a, b))
     print(mul(a, b))
